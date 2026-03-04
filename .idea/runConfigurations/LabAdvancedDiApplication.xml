@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="LabAdvancedDiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <module name="lab" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="com.ironhack.lab.LabAdvancedDiApplication" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
